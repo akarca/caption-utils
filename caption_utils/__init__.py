@@ -1,7 +1,7 @@
 from functools import reduce
 from big_phoney import BigPhoney
 from Levenshtein import distance
-from tools import split_sentences, format_time_from_seconds, transcribe
+from .tools import split_sentences, format_time_from_seconds, transcribe
 
 phoney = BigPhoney()
 
