@@ -1,1 +1,4 @@
-faster-whisper
+sentence-splitter==1.4
+Levenshtein==0.27.1
+big-phoney==1.0.1
+faster-whisper==1.2.0
